@@ -3,4 +3,4 @@
 
  Price Differences (2Y) shown below.
  One can easily observe how the spread blooms and diverges during bull runs with convergence shown in bearish periods.
- ![TWTD Price Diffs](https://github.com/ayodeji-0/Token-Wrapped-Token-Delta/blob/main/TWTD%20Price%20Diffs.png)
+ ![2Y Spread Analysis](https://github.com/ayodeji-0/Token-Wrapped-Token-Delta/blob/main/2Y-Spread-Analysis.png)
